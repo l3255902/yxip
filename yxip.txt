@@ -630,8 +630,8 @@ gur.gov.ua:443#勇哥优选域名42
 www.zsu.gov.ua:443#勇哥优选域名43
 www.iakeys.com:443#勇哥优选域名44
 edtunnel-dgp.pages.dev:443#勇哥优选域名45
-1www.sean-now.com:443#勇哥优选域名46
-1www.d-555.com:443#勇哥优选域名47
+www.sean-now.com:443#勇哥优选域名46
+www.d-555.com:443#勇哥优选域名47
 fbi.gov:443#勇哥优选域名48
 download.yunzhongzhuan.com:443#勇哥优选域名49
 whatismyipaddress.com:443#勇哥优选域名50
